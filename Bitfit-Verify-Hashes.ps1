@@ -1,0 +1,2 @@
+﻿.\bitfit.exe -v .\
+pause
